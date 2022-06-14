@@ -1,4 +1,4 @@
-# Copyright (C) 2017-2020 The LineageOS Project
+# Copyright (C) 2017-2020 The MarkOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,9 +15,9 @@
 LOCAL_PATH := device/samsung/j7elte
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_PATH)/lineage_j7elte.mk
+    $(LOCAL_PATH)/MarkOS_j7elte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_j7elte-user \
-    lineage_j7elte-userdebug \
-    lineage_j7elte-eng
+    MarkOS_j7elte-user \
+    MarkOS_j7elte-userdebug \
+    MarkOS_j7elte-eng
